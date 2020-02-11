@@ -1,6 +1,6 @@
 # SITE SETTINGS
 title: Bird migration dept.              # Title in top navigation bar (navbar) and <head>
-description: Jekyll theme for research project websites # Site description in <head>
+description: Bird migration # Site description in <head>
 author: Silke Bauer                    # Used for copyright statement in footer
 # url: "https://silkebauer.github.io"
 # baseurl: "/P3webpage"
