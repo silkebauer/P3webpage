@@ -1,7 +1,7 @@
 # SITE SETTINGS
 title: Bird migration dept.              # Title in top navigation bar (navbar) and <head>
 description: Bird migration # Site description in <head>
-author: Silke Bauer                    # Used for copyright statement in footer
+author: Silke Bauer & Christoph Meier    # Used for copyright statement in footer
 # url: "https://silkebauer.github.io"
 # baseurl: "/P3webpage"
 
@@ -11,7 +11,7 @@ twitter_username: peterdesmet           # Social icon in footer
 github_username: silkebauer            # Social icon in footer
 
 # THEME SETTINGS (ALL OPTIONAL)
-theme: minima # Fallback theme
+theme: minima                           # Fallback theme
 remote_theme: peterdesmet/petridish@1.1
 posts_on_home: 3                        # Show x number of latest posts on homepage, can be 0
 tweets_on_home: true                    # Show Twitter feed of twitter_username on homepage
