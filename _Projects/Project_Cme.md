@@ -1,6 +1,6 @@
 ---
-title: Data management plan
-description: Version 1 of our [data management plan](https://en.wikipedia.org/wiki/Data_management_plan) is now available
+title: CMe's project
+description: what does he do
 background: /assets/img/Projects/Geolocation.png
 author: [Christoph Meier]
 ---
