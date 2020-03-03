@@ -5,9 +5,9 @@
 - text: Projects
   menu: # Dropdown menu (one level deep only)
   - text: Project 1
-    href: /_Projects/_Project_CMe.html
+    href: /Project1/
   - text: Project 2
-    href: /Project_CMe/
+    href: /Project2/
     new_window: true
 - text: Team
   href: /team/
