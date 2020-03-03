@@ -19,11 +19,11 @@
   - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
   - text: "Team" # Title for block of menu items
   - text: Silke Bauer
-    href: https://www.vogelwarte.ch/de/vogelwarte/ueber-uns/team/mitarbeitende/silke-bauer
+    href: /team/
   - text: Christoph Meier
-    href: https://www.vogelwarte.ch/de/vogelwarte/ueber-uns/team/mitarbeitende/christoph-meier
+    href: /InfoCMe/
   - text: Tom Mason
-    href: https://www.vogelwarte.ch/de/vogelwarte/ueber-uns/team/mitarbeitende
+    href: /team/
     new_window: true
 - text: Publications
   href: /Publications/
