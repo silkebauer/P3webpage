@@ -5,9 +5,9 @@
 - text: Projects
   menu: # Dropdown menu (one level deep only)
   - text: Project 1
-    href: /there-is-no-page-for-this-permalink/
+    href: /_Projects/_Project_CMe.html
   - text: Project 2
-    href: /_Projects/_Project_CMe/
+    href: /Projects/_Project_CMe/
     new_window: true
 - text: Team
   href: /team/
@@ -21,7 +21,7 @@
   - text: Silke Bauer
     href: /team/
   - text: Christoph Meier
-    href: /InfoCMe/
+    href: /team/
   - text: Tom Mason
     href: /team/
     new_window: true
