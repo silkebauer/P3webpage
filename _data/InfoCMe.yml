@@ -1,0 +1,18 @@
+- name: Christoph Meier
+  role: Researcher fellow
+  image: assets/img/Team/Christoph_Meier.jpg
+  description: >
+    Investigating the annual cycle of this species (determining staging sites, non-breeding sites, and migratory schedule)
+    Which factors affect the individual variation in migration strategies?
+      . weather along the migration route and at the breeding ground
+      . individual brood performance
+      . population dynamic at the breeding site
+      . genetic variation between individuals
+    How do migration strategies differ between populations?
+  orcid: 0000-0001-9584-2339
+  email: christoph.meier@vogelwarte.ch
+  github: SwiftMeier
+  twitter: 
+
+
+
