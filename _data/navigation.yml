@@ -6,16 +6,26 @@
   href: /about/
 - text: Team
   href: /team/
-- text: Output
   menu: # Dropdown menu (one level deep only)
-  - text: Page 1
-    href: /there-is-no-page-for-this-permalink/
-  - text: Page 2
-    href: /about/
   - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
-  - text: "Dropdown header" # Title for block of menu items
-  - text: External link
-    href: https://github.com/peterdesmet/petridish/blob/master/_data/navigation.yml
+  - text: "Leader" # Title for block of menu items
+  - text: Felix Liechti
+    href: https://www.vogelwarte.ch/de/vogelwarte/ueber-uns/team/mitarbeitende/felix-liechti
+  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
+  - text: "Team" # Title for block of menu items
+  - text: Silke Bauer
+    href: https://www.vogelwarte.ch/de/vogelwarte/ueber-uns/team/mitarbeitende/silke-bauer
+  - text: Christoph Meier
+    href: https://www.vogelwarte.ch/de/vogelwarte/ueber-uns/team/mitarbeitende/christoph-meier
+  - text: Tom Mason
+    href: https://www.vogelwarte.ch/de/vogelwarte/ueber-uns/team/mitarbeitende
+    new_window: true
+- text: Projects
+  menu: # Dropdown menu (one level deep only)
+  - text: Project 1
+    href: /there-is-no-page-for-this-permalink/
+  - text: Project 2
+    href: /about/
     new_window: true
 - text: News
   href: /blog/
