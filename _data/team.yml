@@ -3,7 +3,7 @@
 
 - name: Silke Bauer
   role: Project coordinator / Leader - Synthesis (WP5)
-  image: assets/images/Silke_Bauer.jpg
+  image: assets/img/Team/Silke_Bauer.jpg
   description: >
     Animal migrations, especially their large scale patterns and timing are Silke’s core research 
     interest. Although much of her research has been devoted to migrants and migrations themselves, 
@@ -19,7 +19,7 @@
 
 - name: Felix Liechti
   role: dept. head
-  image: assets/images/Felix_Liechti.jpg
+  image: assets/img/Team/Felix_Liechti.jpg
   description: >
     Felix is an ecologist with broad interests, but a particular focus on bird migration. He has 
     been fascinated for more than 30 years in using modern technology like radar and miniaturized 
@@ -32,7 +32,7 @@
 
 - name: Tom Mason
   role: Post-doctoral researcher
-  image: assets/images/Tom_Mason.jpg
+  image: assets/img/Team/Tom_Mason.jpg
   description: >
     Tom is a conservation ecologist interested in how wild animal populations respond to changes in
     their environment. He works as a post-doctoral researcher within the Bird Migration Department
@@ -46,7 +46,7 @@
 
 - name: Christoph Meier
   role: Researcher fellow
-  image: assets/images/Christoph_Meier.jpg
+  image: assets/img/Team/Christoph_Meier.jpg
   description: >
     Investigating the annual cycle of this species (determining staging sites, non-breeding sites, and migratory schedule)
     Which factors affect the individual variation in migration strategies?
