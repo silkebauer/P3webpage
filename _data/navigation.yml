@@ -2,8 +2,13 @@
 
 - text: Home # Note that users can also reach the homepage by clicking the site's title on the left in the navbar
   href: /
-- text: About
-  href: /about/
+- text: Projects
+  menu: # Dropdown menu (one level deep only)
+  - text: Project 1
+    href: /there-is-no-page-for-this-permalink/
+  - text: Project 2
+    href: /about/
+    new_window: true
 - text: Team
   href: /team/
   menu: # Dropdown menu (one level deep only)
@@ -20,12 +25,10 @@
   - text: Tom Mason
     href: https://www.vogelwarte.ch/de/vogelwarte/ueber-uns/team/mitarbeitende
     new_window: true
-- text: Projects
-  menu: # Dropdown menu (one level deep only)
-  - text: Project 1
-    href: /there-is-no-page-for-this-permalink/
-  - text: Project 2
-    href: /about/
-    new_window: true
+- text: Publications
+  href: /Publications/
 - text: News
   href: /blog/
+- text: TeamBefore
+  href: /team/
+
