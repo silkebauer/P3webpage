@@ -21,9 +21,9 @@
   - text: Silke Bauer
     href: /team/
   - text: Christoph Meier
-    href: /team/
-  - text: Tom Mason
     href: /team_cme/
+  - text: Tom Mason
+    href: /team/
     new_window: true
 - text: Publications
   href: /publications/

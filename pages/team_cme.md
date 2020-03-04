@@ -1,5 +1,4 @@
 ---
-layout: team
 title: "Christoph Meier"
 author: "Christoph Meier"
 description: Who he is
@@ -7,7 +6,7 @@ permalink: /team_cme/
 ---
 
 
-
+![christoph Meier](TeamPhoto/Simeon_Lisovski.jpg)
 
 ## **Christoph Meier** | Researcher fellow 
 
