@@ -3,15 +3,9 @@ title: "Christoph Meier"
 author: "Christoph Meier"
 description: Who he is
 permalink: /team_cme/
+output: html_document
+css: _sass/_team.scss
 ---
-
-
-![](TeamPhoto/Christoph_Meier.jpg){width=25px}
-
-
-<div style="width:50%">
-![](TeamPhoto/Christoph_Meier.jpg)
-</div>
 
 
 ## **Christoph Meier** | Researcher fellow 
