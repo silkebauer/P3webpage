@@ -4,11 +4,11 @@
   href: /
 - text: Projects
   menu: # Dropdown menu (one level deep only)
-  - text: Project 1
-    href: /project1/
-  - text: Project 2
-    href: /project2/
-    new_window: true
+  - text: Migration Phenology
+    href: /project_phenology/
+  - text: Migration and Parasites
+    href: /project_parasites/
+    new_window: false
 - text: Team
   href: /team/
   menu: # Dropdown menu (one level deep only)
