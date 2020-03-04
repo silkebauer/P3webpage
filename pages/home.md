@@ -1,12 +1,15 @@
 ---
 layout: home
 title: Bird migration department
-description: Start page of bird mig dept.
+description: Who we are and what we do
 background: /assets/img/chuttersnap-146799-unsplash.jpg
 permalink: /
 ---
 
-Who we are, what we do, ...
+Main research interests are animal migration, 
+radar
+individual-based tracking
+
 
 
 
