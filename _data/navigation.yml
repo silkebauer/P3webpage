@@ -5,9 +5,9 @@
 - text: Projects
   menu: # Dropdown menu (one level deep only)
   - text: Migration Phenology
-    href: /project_phenology/
+    href: /project-phenology
   - text: Migration and Parasites
-    href: /project_parasites/
+    href: /project-parasites
     new_window: false
 - text: Team
   href: /team/
