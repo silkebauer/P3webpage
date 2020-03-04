@@ -6,7 +6,7 @@ permalink: /team_cme/
 ---
 
 
-![](TeamPhoto/Christoph_Meier.jpg){width=250px}
+![](TeamPhoto/Christoph_Meier.jpg){width=25px}
 
 ## **Christoph Meier** | Researcher fellow 
 
