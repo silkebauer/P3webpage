@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Bird migration dept.
-description: Towards developing a theme for research project websites
+title: Bird migration department
+description: Start page of bird mig dept.
 background: /assets/img/chuttersnap-146799-unsplash.jpg
 permalink: /
 ---
