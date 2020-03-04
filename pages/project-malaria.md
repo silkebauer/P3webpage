@@ -3,7 +3,7 @@ title: "Migration and Bird health"
 author: "Silke Bauer"
 description: describe this project
 background: /assets/img/Projects/malaria.png
-permalink: /project_malaria/
+permalink: /project-malaria
 ---
 
 Migratory birds can host a variety of parasites. Understanding the mechanisms of host-parasite-interactions is complex and the transient nature of migrants makes it difficult to follow them throughout the annual cycle, monitoring their infection status, physiological state or behaviour.
