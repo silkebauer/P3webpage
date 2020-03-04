@@ -1,7 +1,7 @@
 ---
 title: "CMe's project"
 author: "Christoph Meier"
-description: what does he do
+description: what does he do?
 background: /assets/img/Projects/Geolocation.png
 permalink: /Project1/
 ---
