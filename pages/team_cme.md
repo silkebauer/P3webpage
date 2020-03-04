@@ -5,10 +5,7 @@ description: Who he is
 permalink: /team_cme/
 ---
 
-<div style="width=50%">
 ![](TeamPhoto/Christoph_Meier.jpg)
-</div>
-
 
 ## **Christoph Meier** | Researcher fellow 
 
