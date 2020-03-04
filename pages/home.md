@@ -3,7 +3,7 @@ layout: home
 title: Bird migration department
 description: Who we are and what we do
 background: /assets/img/chuttersnap-146799-unsplash.jpg
-permalink: /
+permalink: /Home
 ---
 
 Main research interests are animal migration, 
