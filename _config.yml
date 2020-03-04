@@ -1,8 +1,8 @@
 # SITE SETTINGS
-title: Bird migration dept.              # Title in top navigation bar (navbar) and <head>
+title: Bird migration department              # Title in top navigation bar (navbar) and <head>
 description: Bird migration # Site description in <head>
 author: Silke Bauer & Christoph Meier    # Used for copyright statement in footer
-# url: "https://silkebauer.github.io"
+url: "https://silkebauer.github.io"
 # baseurl: "/P3webpage"
 
 # SOCIAL PROFILES
