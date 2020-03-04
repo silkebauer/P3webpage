@@ -3,7 +3,7 @@ title: "Migration phenology"
 author: "Silke Bauer"
 description: Migration phenology - environmental factors and individual attributes
 background: /assets/img/Projects/Geolocation.png
-permalink: /project-phenology
+permalink: /project-phenology/
 ---
 
 # Phenology of migration – environmental factors and individual attributes
