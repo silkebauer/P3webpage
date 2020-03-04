@@ -3,7 +3,7 @@ title: Test             # Title in top navigation bar (navbar) and <head>
 description: "Bird migration" # Site description in <head>
 author: "Silke Bauer & Christoph Meier"    # Used for copyright statement in footer
 url: "https://silkebauer.github.io"
-baseurl: "/P3webpage/"
+baseurl: "/P3webpage"
 
 # SOCIAL PROFILES
 email: silke.s.bauer@gmail.com           # Social icon in footer
