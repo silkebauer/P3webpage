@@ -8,6 +8,7 @@ permalink: /team_cme/
 
 ![](TeamPhoto/Christoph_Meier.jpg){width=25px}
 
+Did this work?
 
 <div style="width:50%">
 ![](TeamPhoto/Christoph_Meier.jpg)

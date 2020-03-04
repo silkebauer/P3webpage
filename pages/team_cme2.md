@@ -4,7 +4,7 @@ author: "Christoph Meier"
 description: Who he is
 permalink: /team_cme/
 output: html_document
-css: _team_scss.css
+css: _team.scss
 ---
 
 ![](TeamPhoto/Christoph_Meier.jpg)
