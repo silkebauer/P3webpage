@@ -1,9 +1,9 @@
 ---
 title: "Migration phenology"
 author: "Silke Bauer"
-description: What is contained in project?
+description: Migration phenology - environmental factors and individual attributes
 background: /assets/img/Projects/Geolocation.png
-permalink: /project_phenology/
+permalink: /project-phenology
 ---
 
 # Phenology of migration – environmental factors and individual attributes
