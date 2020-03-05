@@ -7,7 +7,7 @@ permalink: /publications/
 
 ## 2020
 
-**Briedis M, Bauer S**, Adamík P, Alves JA, Costa JS, **Emmenegger T**, Gustafsson L, Koleček J, Krist M, **Liechti F, Lisovski S, Meier CM**, Procházka P, **Hahn S** (2020) Broad-scale patterns of the Afro-Palaearctic landbird migration. _Glob. Ecol. Biogeogr._ 29, 722–735. <doi:10.1111/geb.13063>
+**Briedis M, Bauer S**, Adamík P, Alves JA, Costa JS, **Emmenegger T**, Gustafsson L, Koleček J, Krist M, **Liechti F, Lisovski S, Meier CM**, Procházka P, **Hahn S** (2020) Broad-scale patterns of the Afro-Palaearctic landbird migration. _Glob. Ecol. Biogeogr._ 29, 722–735. <https://doi:10.1111/geb.13063>
 
 ## 2019
 
@@ -15,9 +15,9 @@ permalink: /publications/
 
 **Bauer S**, Shamoun-Baranes J, Nilsson C, Farnsworth A, Kelly JF, Reynolds DR, Dokter AM, Krauel JF, Petterson LB, Horton KG, Chapman JW (2019). The grand challenges of migration ecology that radar aeroecology can help answer. _Ecography_ 42, 861–875. <https://doi:10.1111/ecog.04083>
 
-**Briedis M**, **Bauer S**, Adamík P, Alves JA, Costa JS, **Emmenegger T**, Gustafsson L, Koleček J, **Liechti F, Meier CM**, Procházka P, **Hahn S**. (2019) A full annual perspective on sex-biased migration timing in long-distance migratory birds. _Proc. R. Soc. B Biol. Sci._ 286, 20182821. <doi:10.1098/rspb.2018.2821>
+**Briedis M**, **Bauer S**, Adamík P, Alves JA, Costa JS, **Emmenegger T**, Gustafsson L, Koleček J, **Liechti F, Meier CM**, Procházka P, **Hahn S**. (2019) A full annual perspective on sex-biased migration timing in long-distance migratory birds. _Proc. R. Soc. B Biol. Sci._ 286, 20182821. <https://doi:10.1098/rspb.2018.2821>
 
-**Nussbaumer R**, Benoit L, Mariethoz G, **Liechti F, Bauer S, Schmid B** (2019) A Geostatistical Approach to Estimate High Resolution Nocturnal Bird Migration Densities from a Weather Radar Network. _Remote Sens._ 11, 2233. <doi:10.3390/rs11192233>
+**Nussbaumer R**, Benoit L, Mariethoz G, **Liechti F, Bauer S, Schmid B** (2019) A Geostatistical Approach to Estimate High Resolution Nocturnal Bird Migration Densities from a Weather Radar Network. _Remote Sens._ 11, 2233. <https://doi:10.3390/rs11192233>
 
 Buttemer WA, **S Bauer, T Emmenegger**, D Dimitrov, S Peev & **S Hahn** (2019): Moult-related reduction of aerobic scope in passerine birds. _J. Comp. Physiol._ 189: 463–470.
 
