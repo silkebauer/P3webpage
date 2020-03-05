@@ -5,6 +5,10 @@ background: https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?ixlib=r
 permalink: /publications/
 ---
 
+## 2020
+
+**Briedis M, Bauer S**, Adamík P, Alves JA, Costa JS, **Emmenegger T**, Gustafsson L, Koleček J, Krist M, **Liechti F, Lisovski S, Meier CM**, Procházka P, **Hahn S** (2020) Broad-scale patterns of the Afro-Palaearctic landbird migration. _Glob. Ecol. Biogeogr._ 29, 722–735. <doi:10.1111/geb.13063>
+
 ## 2019
 
 **Nilsson C**, AM Dokter, L Verlinden, J Shamoun‐Baranes, **B Schmid**, P Desmet, **S Bauer**, J Chapman, JA Alves, PM Stepanian, N Sapir, C Wainwright, M Boos, A Górska, MHM Menz, P Rodrigues, H Leijnse, P Zehtindjiev, R Brabant, G Haase, N Weisshaupt, M Ciach, and **F Liechti** (2019). Revealing patterns of nocturnal migration using the European weather radar network. _Ecography_ 42, 876–886. <https://doi:10.1111/ECOG.04003>
@@ -34,3 +38,4 @@ Shamoun-Baranes J, C Nilsson, **S Bauer**, JW Chapman (2019): Taking radar aeroe
 Voigt CC, K Kravchenko, **F Liechti** & S Bumrungsri (2019). Skyrocketing flights as a previously unrecognized behaviour of open-space foraging bats. _Acta Chiropterologica_ 21: 331–339.
 
 
+## 2018
