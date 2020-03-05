@@ -11,6 +11,18 @@ radar
 individual-based tracking
 
 
+Hier würde Text stehen: Allgemeine Infos zu Bird migration department
+
+rechts davon ein twitter-feed
+
+
+
+
+
+
+
+
+usw.
 
 
 
