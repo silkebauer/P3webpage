@@ -8,23 +8,28 @@
     href: /project-phenology/
   - text: Migration and Parasites
     href: /project-malaria/
+  - text: Radar aeroecology
+    href: /project-radar-aeroecology/
     new_window: false
 - text: Team
   href: /team/
   menu: # Dropdown menu (one level deep only)
-  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
-  - text: "Leader" # Title for block of menu items
+  - text: "Staff" # Divider to separate blocks of menu items (at least 3 "-")
   - text: Felix Liechti
     href: https://www.vogelwarte.ch/de/vogelwarte/ueber-uns/team/mitarbeitende/felix-liechti
-  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
-  - text: "Team" # Title for block of menu items
   - text: Silke Bauer
     href: /team/
   - text: Christoph Meier
     href: /team_cme/
   - text: Tom Mason
     href: /team/
-    new_window: true
+    new_window: false
+  - text: "Students" 
+  - text: Michel Montagner
+    href: /team/
+  - text: Mike Werfeli
+    href: /team/ 
+
 - text: Publications
   href: /publications/
 - text: News
