@@ -1,12 +1,10 @@
 ---
 title: "Migration phenology"
 author: "Silke Bauer"
-description: Migration phenology - environmental factors and individual attributes
+description: Environmental factors and individual attributes
 background: /assets/img/Projects/Geolocation.png
 permalink: /project-phenology/
 ---
-
-# Phenology of migration – environmental factors and individual attributes
 
 More than 2 billion passerines migrate from their European breeding grounds to their residence areas in sub-Saharan Africa. The bird’s behaviour and migratory pattern is shaped by the seasonal food availability en route and in the African residence areas, as well as by the short term weather conditions. The critical factors for a successful return to the breeding grounds are barely known for most species and populations of trans-Sahara migrants.
 
