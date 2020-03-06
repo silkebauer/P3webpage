@@ -17,8 +17,9 @@
 - text: Team
   href: /team/
   menu: # Dropdown menu (one level deep only)
-  - text: Staff # Divider to separate blocks of menu items (at least 3 "-")
+  - text: Staff 
     href: /team/
+  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
   - text: Felix Liechti
     href: https://www.vogelwarte.ch/de/vogelwarte/ueber-uns/team/mitarbeitende/felix-liechti
   - text: Silke Bauer
