@@ -10,5 +10,5 @@ This is an overview of our current projects. For details, please follow the link
 [link](project-malaria)  
 Nochmal
 
-({% link /pages/project-malaria.md %})
+[Avian Malaria]({% link /pages/project-malaria.md %})
 
