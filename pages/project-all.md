@@ -8,7 +8,6 @@ permalink: /project-all/
 
 This is an overview of our current projects. For details, please follow the links to individual projects
 [link](/pages/project-malaria.md)  
-Nochmal
 
 [Avian Malaria]({% link /pages/project-malaria.md %})
 
