@@ -5,7 +5,7 @@
 - text: Projects
   menu: # Dropdown menu (one level deep only)
   - text: Overview
-    href: /projects/all/
+    href: /projects/overview/
   - text: "---"
   - text: Migration Phenology
     href: /projects/phenology/
