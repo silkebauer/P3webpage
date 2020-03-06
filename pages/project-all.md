@@ -10,5 +10,5 @@ This is an overview of our current projects. For details, please follow the link
 [link](project-malaria)  
 Nochmal
 
-[Link]({% link /pages/project-malaria.md %})
-# [Link]({% link project-malaria.md %})
+({% link /pages/project-malaria.md %})
+
