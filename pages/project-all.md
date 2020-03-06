@@ -6,4 +6,4 @@ background: /assets/img/Projects/malaria.png
 permalink: /project-all/
 ---
 
-This is an overview of our current projects. For details, please [link](/project-malaria/)  
+This is an overview of our current projects. For details, please ({% link pages/project-malaria.md %})  
