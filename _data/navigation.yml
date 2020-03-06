@@ -5,14 +5,14 @@
 - text: Projects
   menu: # Dropdown menu (one level deep only)
   - text: Overview
-    href: /project-all/
+    href: /projects/all/
   - text: "---"
   - text: Migration Phenology
-    href: /project-phenology/
+    href: /projects/phenology/
   - text: Migration and Parasites
-    href: /project-malaria/
+    href: /projects/malaria/
   - text: Radar aeroecology
-    href: /project-radar-aeroecology/
+    href: /projects/radar-aeroecology/
     new_window: false
 - text: Team
   href: /team/
