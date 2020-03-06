@@ -6,6 +6,5 @@ background: /assets/img/Projects/malaria.png
 permalink: /project-all/
 ---
 
+[link](projects/project-malaria)
 This is an overview of our current projects. For details, please follow the links to individual projects
-[link]({% link pages/project-malaria.md %})
-[Avian Malaria]({% link pages/project-malaria.md %})
