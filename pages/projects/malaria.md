@@ -3,7 +3,7 @@ title: "Migration and Bird health"
 author: "Silke Bauer"
 description: describe this project
 background: /assets/img/Projects/malaria.png
-permalink: /project-malaria/
+permalink: /projects/malaria/
 ---
 
 Testing links {% link pages/project-phenology.md %}
