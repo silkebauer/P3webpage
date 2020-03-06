@@ -2,7 +2,7 @@
 layout: team
 title: Team
 description: Who we are
-permalink: /team/
+permalink: /team/overview
 ---
 
 
