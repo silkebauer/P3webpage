@@ -9,3 +9,6 @@ permalink: /project-all/
 
 This is an overview of our current projects. For details, please follow the links to individual projects
 [link](project-malaria)
+[link](/pages/project-malaria)
+[link](/project-malaria.md)
+[link](project-malaria.md)
