@@ -7,10 +7,10 @@ permalink: /projects/overview/
 ---
 
 
-This is an overview of our current projects. For details, please follow the links to individual projects
- neu this one [link](/projects/malaria/)
-[link](/pages/projects/malaria)
-[link](/projects/malaria.md)
-[link](projects/malaria.md)
+This is an overview of our current projects. 
 
-[link]({{ site.baseurl }}{% link pages/projects/malaria.md %})
+For details, please follow the links to individual projects
+
+[Migration phenology]({{ site.baseurl }}{% link pages/projects/phenology.md %})
+[Avian malaria]({{ site.baseurl }}{% link pages/projects/malaria.md %})
+[Radar aeroecology]({{ site.baseurl }}{% link pages/projects/radar-aeroecology.md %})
