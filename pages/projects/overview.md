@@ -13,4 +13,4 @@ This is an overview of our current projects. For details, please follow the link
 [link](/projects/malaria.md)
 [link](projects/malaria.md)
 
-[Avian malaria]({{ P3webpage }}{% link pages/projects/malaria.md %})
+[link]({{ P3webpage }}{% link pages/projects/malaria.md %})
